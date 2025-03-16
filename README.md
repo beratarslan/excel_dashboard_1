@@ -26,3 +26,4 @@ This project focuses on analyzing coffee sales data to extract key business insi
 
 ## Screenshot
 
+![Project Screenshot](images/project_ss.png)
