@@ -24,9 +24,5 @@ This project focuses on analyzing coffee sales data to extract key business insi
   - **Country-wise Sales Bar Chart** for regional sales distribution.
   - **Total Sales Breakdown** to analyze revenue by coffee type and year.
 
-## Business Recommendations
-- **Expand operations in high-sales regions** like the U.S. to maximize revenue.
-- **Enhance the loyalty program**, as it encourages increased spending.
-- Future enhancements: Implement **predictive modeling** and **customer segmentation** for deeper business insights.
+## Screenshot
 
-This project demonstrates my ability to handle raw data, clean and analyze it, and present actionable insights through dashboards—making it a strong addition to my portfolio.
