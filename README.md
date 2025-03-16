@@ -1,7 +1,7 @@
 # Coffee Orders Data Analysis-
 
 ## Project Overview
-This project focuses on analyzing coffee sales data to extract key business insights. The primary objective was to examine sales trends, customer purchasing behavior, and regional performance using data cleaning, transformation, and visualization techniques.
+This project focuses on analyzing coffee sales data to extract key business insights. The primary objective was to examine sales trends, customer purchasing behavior, and regional performance using data transformation, and visualization techniques.
 
 ## Key Insights
 
